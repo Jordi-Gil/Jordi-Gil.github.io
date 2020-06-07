@@ -168,7 +168,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
@@ -205,4 +205,15 @@ kbd {
     text-align: center;
     font-weight: 300;
     margin-bottom: 10px;
+}
+
+img.emoji {
+    display: inline-block;
+    left: 0;
+    transform: none;
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+    padding: 0;
+    margin: 0;
 }
