@@ -12,6 +12,10 @@ Hello, my name is Jordi Gil and I'm a computer scientist who loves computer grap
 
 I studied Computer Science at the Faculty of Computer Science of Barcelona at the Technical University of Catalonia (UPC). During my studies, I course different subjects relative to computer graphics and video games. Indeed, my final degree project was about Path Tracing with various implementations in CPU and GPU.
 
+## >_ Projects
+
+Take a look at this [Projects](https://jordi-gil.github.io/projects/) page to get an overview of my current work.
+
 ## :heart: Favorite Topics
 
 I'm very interested in Computer Graphics, Video game development and Software Engineering in general. I usually explore [Github](https://github.com/){:target="_blank"}, [Stackexchange](https://computergraphics.stackexchange.com/){:target="_blank"} and [Unreal Engine](https://forums.unrealengine.com/){:target="_blank"} and [Unity](https://forum.unity.com/){:target="_blank"} forums to discover new stuff. Also, I love reading papers relative to rendering methods and, of course, play video games!
