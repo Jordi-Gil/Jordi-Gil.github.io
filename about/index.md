@@ -16,7 +16,19 @@ I studied Computer Science at the Faculty of Computer Science of Barcelona at th
 
 Take a look at this [Projects](https://jordi-gil.github.io/projects/) page to get an overview of my current work.
 
-## Skills
+## :bar_chart: Skills
+
+### </> Scripting and Programming Languages
+
+C • C++ • Java • C# • HTML • Python • JavaScript • DBs (MySQL, PL/SQL, PostgreSQL)
+
+### :gear: Game Engines
+
+Unity • Unreal Engine 4
+
+### >_ Operating Systems
+
+Windows 10 • Ubuntu • OpenSuse
 
 ## :black_heart: Favorite Topics
 
@@ -29,3 +41,7 @@ I'm very interested in Computer Graphics, Video game development and Software En
 * [Ray Tracing Gems: High-Quality and Real-Time Rendering with DXR and Other APIs](http://www.realtimerendering.com/raytracinggems/){:target="_blank"}
 * [Ray Tracing in One Weekend - The book series](https://raytracing.github.io/){:target="_blank"}
 * [Physically Based Rendering](https://www.pbrt.org/){:target="_blank"}
+
+## :briefcase: Experience
+
+### :date: July 2018 - Ongoing :office: Minsait as Junior Analyst
