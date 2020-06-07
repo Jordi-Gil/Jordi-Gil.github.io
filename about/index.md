@@ -16,7 +16,9 @@ I studied Computer Science at the Faculty of Computer Science of Barcelona at th
 
 Take a look at this [Projects](https://jordi-gil.github.io/projects/) page to get an overview of my current work.
 
-## :heart: Favorite Topics
+## Skills
+
+## :hearts: Favorite Topics
 
 I'm very interested in Computer Graphics, Video game development and Software Engineering in general. I usually explore [Github](https://github.com/){:target="_blank"}, [Stackexchange](https://computergraphics.stackexchange.com/){:target="_blank"} and [Unreal Engine](https://forums.unrealengine.com/){:target="_blank"} and [Unity](https://forum.unity.com/){:target="_blank"} forums to discover new stuff. Also, I love reading papers relative to rendering methods and, of course, play video games!
 
