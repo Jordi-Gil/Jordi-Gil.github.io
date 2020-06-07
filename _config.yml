@@ -1,7 +1,7 @@
 # Site
 title:              Jordi Gil
 bio:                'Jordi Gil González. Portfolio.'
-description:        "I'm a computer scientist that love computer graphics and video games. Principally, I love offline rendering methods like Path Tracing."
+description:        "I'm a computer scientist that love computer graphics and video games."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_2.png'
@@ -69,8 +69,6 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-
-plugins:
   - jemoji
 
 jekyll-mentions:
