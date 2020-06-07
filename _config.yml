@@ -30,9 +30,10 @@ disqus_shortname:   jordigil
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+#
+google:
   #plus:            #username
-  #analytics:
+  analytics:        168761491
   #verify:
   #ad-client:
   #ad-slot:
@@ -42,7 +43,7 @@ email:              jordigilgonzalez@hotmail.com
 #facebook:           username
 github-url:         Jordi-Gil
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           jordi-gil
 #xing:              username
 instagram:          jordi.96
 #lastfm:            username
