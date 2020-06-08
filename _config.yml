@@ -10,6 +10,27 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://jordi-gil.github.io
 
+# Collections
+
+collections:
+  projects:
+    output          : true
+    permalink       : :collection/:title
+  posts:
+    output          : false
+    permalink       : :collection/:year/:month/:title
+
+defaults:
+  -
+    scope:
+      path          : "_projects"
+      type          : "pages"
+    values:
+      layout        : "project"
+      categories    : "projects"
+      comments      : false
+
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
