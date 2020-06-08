@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Testing Readability with a Bunch of Text"
+title: "Analysis of the Path Tracing rendering method on CPU and GPU"
 date: 2020-04-30
 excerpt: "Path Tracing architecture analysis."
 comments: false
