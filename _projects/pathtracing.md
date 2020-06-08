@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Testing Readability with a Bunch of Text"
 date: 2020-04-30
 excerpt: "Path Tracing architecture analysis."
