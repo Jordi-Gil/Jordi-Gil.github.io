@@ -16,4 +16,5 @@ Finally, a series of denoising filters were also implemented to improve the qual
 
 <figure>
 	<img src="{{site.url}}/pathtracing/cornell_deer.png">
+  <img src="{{site.url}}/pathtracing/cornell_textures.png">
 </figure>
