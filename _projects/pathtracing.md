@@ -14,7 +14,12 @@ For each implementation, we have a version that uses a Bounding Volumes Hierarch
 
 Finally, a series of denoising filters were also implemented to improve the quality of the output image.
 
+Some example renders.
+
 <figure>
 	<img src="{{site.url}}/assets/img/pathtracing/cornell_deer.png">
   <img src="{{site.url}}/assets/img/pathtracing/cornell_textures.png">
+  <img src="{{site.url}}/assets/img/pathtracing/CapeHill_cristal_bunny.png">
 </figure>
+
+You can check the code in [link to github repo]
