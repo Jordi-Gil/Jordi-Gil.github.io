@@ -14,4 +14,4 @@ For each implementation, we have a version that uses a Bounding Volumes Hierarch
 
 Finally, a series of denoising filters were also implemented to improve the quality of the output image.
 
-![Kitten](jordi-gil.github.io/assets/img/pathtracing/cornell_der.png)
+![Kitten](jordi-gil.github.io/assets/img/pathtracing/cornell_deer.png)
