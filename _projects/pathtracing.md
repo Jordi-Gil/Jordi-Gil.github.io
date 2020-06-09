@@ -8,6 +8,10 @@ excerpt: "Path Tracing performance architecture analysis"
 comments: false
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+This is my final degree project with which I got a grade of 10. The project consists of the implementation of a Path Tracer for both CPU, using OpenMP, and GPU, using CUDA. The objective of the project was to analyze which architecture provides us with more performance in an application of these characteristics. This application allows the creation of 3D scenes through 3D models defined in OBJ format. These models can be defined by their material: diffuse, metallic or dielectric (e.g. glass). Also, we can define a texture for the model. Currently, there is no support for models with more than one defined texture. We can also make use of skyboxes.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+For each implementation, we have a version that uses a Bounding Volumes Hierarchy to optimize the query of if a ray has hit an object or not. Besides, for the ray/triangle calculation, we have used the Möller-Trumbore algorithm, which is characterized by its efficiency, both in memory expenditure and in calculations.
+
+Finally, a series of denoising filters were also implemented to improve the quality of the output image.
+
+![Kitten](jordi-gil.github.io/assets/img/pathtracing/cornell_der.png)
