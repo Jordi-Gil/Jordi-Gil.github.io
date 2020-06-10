@@ -14,7 +14,7 @@ For each implementation, we have a version that uses a *Bounding Volumes Hierarc
 
 Finally, a series of denoising filters were also implemented to improve the quality of the output image.
 
-You can check the code here [PathTracer](https://github.com/Jordi-Gil/PathTracer). Here you can see some example of renders.
+You can check the code here [PathTracer](https://github.com/Jordi-Gil/PathTracer){:target="_blank"}. Here you can see some example of renders.
 
 <figure>
 	<img src="{{site.url}}/assets/img/pathtracing/cornell_deer.png">
