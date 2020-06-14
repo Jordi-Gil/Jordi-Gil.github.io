@@ -9,7 +9,7 @@ comments: false
 
 Hello, my name is Jordi Gil and I'm a computer scientist who loves computer graphics and video games. Mainly, I love offline rendering methods like Path Tracing.
 
-I studied Computer Science at the Faculty of Computer Science of Barcelona at the Technical University of Catalonia (UPC). During my studies, I course different subjects relative to computer graphics and video games. Indeed, my final degree project was about Path Tracing with various implementations in CPU and GPU.
+I studied Computer Science at the Barcelona School of Informatics - Polytechnic University of Catalonia (FIB-UPC). During my studies, I course different subjects relative to computer graphics and video games. Indeed, my final degree project was about Path Tracing with various implementations in CPU and GPU.
 
 ## >_ Projects
 
