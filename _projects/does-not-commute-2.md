@@ -8,7 +8,7 @@ excerpt: "A strategic driving game based on popular mobile game Does not Commute
 comments: false
 ---
 
-Does not Commute 2 is a strategic driving game based on Does not Commute game developed by Mediocre. This game was developed by Javier de Muniategui Climente and Jordi Gil González for the video games subject of Computer Science degree at Faculty of Informatics of Barcelona - Polytechnic University of Catalonia (FIB-UPC).
+Does not Commute 2 is a strategic driving game based on Does not Commute game developed by Mediocre. This game was developed by Javier de Muniategui Climente and Jordi Gil González for the video games subject of Computer Science degree at Barcelona School of Informatics - Polytechnic University of Catalonia (FIB-UPC).
 
 This game was developed using Unity 2018.
 
