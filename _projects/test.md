@@ -8,4 +8,6 @@ excerpt: "Brython test, dynamic markdown"
 comments: false
 ---
 
-{% include Brython/test.html %}
+Ejemplo:
+
+{% include test.html %}
