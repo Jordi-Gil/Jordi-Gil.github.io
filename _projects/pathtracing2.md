@@ -14,10 +14,10 @@ For each implementation, we have a version that uses a *Bounding Volumes Hierarc
 
 Finally, a series of denoising filters were also implemented to improve the quality of the output image.
 
-You can check the code here [PathTracer](https://github.com/Jordi-Gil/Path-Tracer){:target="_blank"}. Here you can see some example of renders.
+You can check the code in the repossitory [Tesseract](https://github.com/TBD-org/Tesseract){:target="_blank"}. Also, here you can see some images from the engine.
 
 <figure>
-	<img src="{{site.url}}/assets/img/pathtracing/cornell_deer.png">
-  <img src="{{site.url}}/assets/img/pathtracing/cornell_textures.png">
-  <img src="{{site.url}}/assets/img/pathtracing/CapeHill_cristal_bunny.png">
+	<img src="{{site.url}}/assets/img/tesseract/tesseract.png">
+  <img src="{{site.url}}/assets/img/tesseract/animation1.gif">
+  <img src="{{site.url}}/assets/img/tesseract/animation2.gif">
 </figure>
