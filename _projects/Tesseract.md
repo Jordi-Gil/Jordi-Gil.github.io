@@ -12,7 +12,7 @@ This project comes from the necessity to make a game for the Master Degree in Ad
 
 As a Lead Gameplaye Progammer, I was in charge of create thw scripting workflow. We decided to use C++ and inject all the scripts using DLLs to speed up the development using hot-reloading. Also, as a one of the leads, I reviewed a great part of all the pull request created in the repository to assure the quality and good programming practices.
 
-You can check the code in the repossitory [Tesseract](https://github.com/TBD-org/Tesseract){:target="_blank"}. Also, here you can see some images from the engine.
+You can check the code in the repossitory [Tesseract](https://github.com/PenteractStudios/Tesseract){:target="_blank"}. Also, here you can see some images from the engine.
 
 <figure>
 	<img src="{{site.url}}/assets/img/tesseract/tesseract.png">
